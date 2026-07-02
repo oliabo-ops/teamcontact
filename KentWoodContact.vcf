@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Wood;Kent;;;
+FN:Kent Wood
+ORG:Oliabo
+TEL;TYPE=WORK,VOICE:+1 (801) 310-4040
+EMAIL;TYPE=WORK:kent@oliabo.com
+URL:https://www.oliabo.com
+END:VCARD

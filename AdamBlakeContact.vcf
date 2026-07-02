@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Blake;Adam;;;
+FN:Adam Blake
+ORG:Oliabo
+TEL;TYPE=WORK,VOICE:+1 (801) 636-4826
+EMAIL;TYPE=WORK:adam@oliabo.com
+URL:https://www.oliabo.com
+END:VCARD

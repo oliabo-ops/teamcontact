@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Gordon;Brooks;;;
+FN:Brooks Gordon
+ORG:Oliabo
+TEL;TYPE=WORK,VOICE:+1 (801) 231-2797
+EMAIL;TYPE=WORK:brooks@oliabo.com
+URL:https://www.oliabo.com
+END:VCARD

@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Baum;Brent;;;
+FN:Brent Baum
+ORG:Oliabo
+TEL;TYPE=WORK,VOICE:+1 (310) 488-0900
+EMAIL;TYPE=WORK:brent@oliabo.com
+URL:https://www.oliabo.com
+END:VCARD

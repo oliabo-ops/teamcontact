@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Morton;Joe;;;
+FN:Joe Morton
+ORG:Oliabo
+TEL;TYPE=WORK,VOICE:+1 (801) 787-9494
+EMAIL;TYPE=WORK:joem@oliabo.com
+URL:https://www.oliabo.com
+END:VCARD
